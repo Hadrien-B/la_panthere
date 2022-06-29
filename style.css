@@ -659,12 +659,10 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 60px;
+    text-align: center;
 }
 
-.hero-bloc-text-sub {
-    font-size: 36px;
-}
 
 .statement-bloc-text {
     line-height: 26px;
@@ -677,12 +675,13 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
-    margin: auto auto auto auto;
+    max-width: 480px;
+    margin: auto;
+    font-size: 20px;
 }
 
 .h1 {
@@ -701,19 +700,27 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 19px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+}
+
+.col-xs-12{
+    font-size: 19px;
+}
+
+.quote{
+    font-style: italic;
 }
 
 .med-width-whitespace {
@@ -775,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
@@ -984,8 +991,8 @@ h4 {
     }
     .bloc-sm,
     .bloc-md {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 20px;
+        padding-right: 50px;
     }
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
