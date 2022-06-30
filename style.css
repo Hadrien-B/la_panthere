@@ -679,7 +679,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 480px;
+    max-width: 580px;
     margin: auto;
     font-size: 20px;
 }
@@ -782,9 +782,18 @@ h4 {
 }
 
 .tc-white {
-    color: #000000!important;
+    color: #ffffff!important;
 }
+ .tc-orange{
+     color: #F3976C!important;
+     font-size: 54px!important;
+     font-weight: 700;
+ }
 
+ .sub{
+     color: #FFFFFF!important;
+     font-size: 18px;
+ }
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
