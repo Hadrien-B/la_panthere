@@ -45,7 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 91px 50px;
 }
 
 .bloc-md {
@@ -698,9 +698,11 @@ p {
     font-weight: 700;
 }
 
-.social {
-    max-width: 400px;
-    margin: auto;
+.col-sm-6{
+    font-size: 20px;
+}
+.contact{
+    margin-left: 120px;
 }
 
 h2 {
@@ -834,7 +836,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere-light.jpg");
+    background-image: url("img/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
