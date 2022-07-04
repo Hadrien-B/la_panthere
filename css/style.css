@@ -713,16 +713,6 @@ p {
     font-size: 20px;
 }
 
-.contact {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-top: 60px;
-    text-align: center;
-    line-height: 2;
-    font-size: 20px !important;
-}
 
 map {
     display: flex;
@@ -1035,6 +1025,9 @@ h1 {
     .bloc-xl,
     .bloc-lg {
         padding: 40px 0;
+    }
+    .form_b{
+        margin: auto
     }
 
     .bloc-sm,
